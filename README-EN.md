@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Profile views](https://komarev.com/ghpvc/?username=murakami-kaito-dev&label=Profile%20views&color=0e75b6&style=flat)
+
 # Hi there 👋 
 I'm a mobile app developer based in Japan.  
 I mainly develop Flutter applications.
