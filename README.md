@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 漫画が死ぬほど好きです。
 
 ### 最近の推し
-- [World Trigger](https://www.amazon.co.jp/World-Trigger-Vol-1-English-ebook/dp/B00NUKU8XG)
-- [Blue Period](https://www.amazon.co.jp/Blue-Period-1-Tsubasa-Yamaguchi/dp/1646511123)
-- [Eren the Southpaw](https://www.amazon.co.jp/%E5%8E%9F%E4%BD%9C%E7%89%88-%E5%B7%A6%E3%81%8D%E3%81%8D%E3%81%AE%E3%82%A8%E3%83%AC%E3%83%B3%EF%BC%88%EF%BC%91%EF%BC%89-%E6%A8%AA%E6%B5%9C%E3%81%AE%E3%83%90%E3%82%B9%E3%82%AD%E3%82%A2-%E3%81%8B%E3%81%A3%E3%81%B4%E3%83%BC-ebook/dp/B07GWQT4JP)
+- [ワールドトリガー](https://www.amazon.co.jp/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E8%91%A6%E5%8E%9F-%E5%A4%A7%E4%BB%8B/dp/4088708091)
+- [ブルーピリオド](https://www.amazon.co.jp/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%94%E3%83%AA%E3%82%AA%E3%83%89%EF%BC%88%EF%BC%91%EF%BC%89-%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B1%B1%E5%8F%A3%E3%81%A4%E3%81%B0%E3%81%95-ebook/dp/B07873642C)
+- [左ききのエレン](https://www.amazon.co.jp/gp/product/B07GWQT4JP?ref_=dbs_m_mng_rwt_calw_pa_tkin_0&storeType=ebooks)
 
 
 ## 🧗‍♂️ リリースアプリ
