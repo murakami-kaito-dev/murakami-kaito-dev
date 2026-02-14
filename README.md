@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ボルダリングの活動記録アプリです。ジムの検索、登ったログの共有、コミュニティとのつながりなどができます。  
 **Flutter**, **TypeScript**, **Firebase**, **Supabase**, **Google Cloud** などを使って開発しています。
 
-### [HabitMaster](https://apps.apple.com/us/app/habitmaster/id6517353991)
+### [HabitMaster](https://apps.apple.com/jp/app/habitmaster/id6759028274)
 習慣化をサポートする、シンプルで直感的な習慣トラッカーです。  
 ワンタップ記録、週間の進捗表示、リマインダーのカスタマイズなどができます。  
 **React Native（Expo）**, **TypeScript**, **Firebase** を使って開発しています。
