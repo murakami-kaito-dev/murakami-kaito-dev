@@ -30,7 +30,7 @@ I’m absolutely obsessed with manga.
 A bouldering activity tracker that allows climbers to discover gyms, share climbing logs, and connect with others in the community.  
 Built with **Flutter**, **Firebase**, **Supabase**, and **Google Cloud Platform**.
 
-### [HabitMaster](https://apps.apple.com/us/app/habitmaster/id6517353991)
+### [HabitMaster](https://apps.apple.com/jp/app/habitmaster/id6759028274)
 A simple and intuitive habit tracking app that helps users build daily routines with one-tap recording,    
 weekly progress views, and customizable reminders.
 Built with React Native (Expo), TypeScript, and Firebase. 
